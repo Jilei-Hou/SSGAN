@@ -1,6 +1,5 @@
 # SSGAN
 Code for "A Generative Adversarial Network for Infrared and Visible Image Fusion Based on Semantic Segmentation"
-\
 
 
 If this work is helpful to you, please cite it as:
